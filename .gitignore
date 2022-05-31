@@ -1,0 +1,16 @@
+/*.launch
+/deployment/
+/packages/
+/releases/
+/.mendix-cache/
+/.classpath
+/.project
+/modeler-merge-marker
+/project-settings.user.json
+/javasource/*/proxies/
+/javasource/system/
+/**/node_modules/
+!/javascriptsource/**/node_modules/
+/nativemobile/builds/
+/mx-amplitude-connector.mpr.bak
+/mx-amplitude-connector.mpr.lock
